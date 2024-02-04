@@ -9,7 +9,9 @@ You can download the PASCAL VOC 2012 dataset from here <http://host.robots.ox.ac
 
 Please Change your data path in the line 43 in the train_from_cls_weight.py and line 31 in the infer_RRM.py, such as "datasets/VOC2012/VOCdevkit/VOC2012/JPEGImages"
 
-As for the pretrain model, you can refer to RRM.
+As for the pretrain backbone model, you can refer to RRM or download with this [link](https://drive.google.com/file/d/1gaTIf36zccaWhMpBuTJXQTtCu7sq8cCc/view?usp=sharing).
+
+
 
 # Training from a pretrained classification model  
 cd wrapper/bilateralfilter
