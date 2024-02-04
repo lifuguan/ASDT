@@ -1,4 +1,8 @@
 # ASDT
+Official implementation of [Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching](https://ieeexplore.ieee.org/document/10367821).
+
+The paper has been accepted by TIP 2023 🔥.
+
 This is the pytorch version code of ASDT. The code was based RRM <https://github.com/zbf1991/RRM>. Thanks for their nice work!
 
 # Installation
