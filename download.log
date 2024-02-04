@@ -1,0 +1,12 @@
+wget -P wrapper/bilateralfilter/build https://anonymous.4open.science/r/ASDT-75D3/wrapper/bilateralfilter/build
+
+wget -P wrapper/bilateralfilter/build/lib.linux-x86_64-3.6 https://anonymous.4open.science/r/ASDT-75D3/wrapper/bilateralfilter/build/lib.linux-x86_64-3.6/__pycache__/bilateralfilter.cpython-36.pyc
+wget -P wrapper/bilateralfilter/build/lib.linux-x86_64-3.6 https://anonymous.4open.science/r/ASDT-75D3/wrapper/bilateralfilter/build/lib.linux-x86_64-3.6/_bilateralfilter.cpython-36m-x86_64-linux-gnu.so
+
+
+wget -P wrapper/bilateralfilter/build/temp.linux-x86_64-3.6 https://anonymous.4open.science/r/ASDT-75D3/wrapper/bilateralfilter/build/temp.linux-x86_64-3.6/bilateralfilter.o
+wget -P wrapper/bilateralfilter/build/temp.linux-x86_64-3.6 https://anonymous.4open.science/r/ASDT-75D3/wrapper/bilateralfilter/build/temp.linux-x86_64-3.6/bilateralfilter_wrap.o
+wget -P wrapper/bilateralfilter/build/temp.linux-x86_64-3.6 https://anonymous.4open.science/r/ASDT-75D3/wrapper/bilateralfilter/build/temp.linux-x86_64-3.6/permutohedral.o
+
+
+wget -P wrapper/bilateralfilter https://anonymous.4open.science/r/ASDT-75D3/wrapper/bilateralfilter/setup.py
